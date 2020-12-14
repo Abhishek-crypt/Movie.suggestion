@@ -1,0 +1,59 @@
+.App {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-align: center;
+}
+.head {
+  max-width: 100%;
+  max-height: 40px;
+  background-color: rgba(182, 70, 76, 0.884);
+  color: rgb(10, 2, 2);
+  text-align: center;
+  padding: 1.5rem;
+  margin: auto;
+}
+.btn {
+  max-width: 30%;
+  padding: 1rem;
+  margin: 1.5%;
+  border: solid 2px;
+  border-radius: 0.4rem;
+  color: rgb(212, 162, 162);
+  background-color: rgb(10, 10, 10);
+  font-size: medium;
+}
+.body {
+  max-width: 70%;
+  align-items: center;
+  display: block;
+  text-align: left;
+  margin: auto;
+}
+
+.li {
+  list-style-type: none;
+  border: solid 0.5px;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  margin: 2%;
+  background-color: rgba(0, 80, 117, 0.863);
+}
+.bgm {
+  max-width: 100%;
+  background-image: linear-gradient(rgb(41, 38, 44), rgb(196, 139, 139));
+  padding: 1rem;
+}
+.bgm1 {
+  max-width: 100%;
+  background-color: rgb(19, 10, 10);
+  padding: 1rem;
+  color: white;
+}
+.div1 {
+  font-size: large;
+  margin: 0.3rem;
+}
+.div2 {
+  font-size: small;
+  margin: 0.3rem;
+}
